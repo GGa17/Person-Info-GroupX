@@ -2,5 +2,5 @@
 (@GGa17)
 ### v1.1.0 - [March, 18, 2026] - Added age/address.
 (@raniaa1111)
-### v1.2.0 - [Date] - Added birth math.
+### v1.2.0 - [March 18 2026] - Added birth math.
 (@EarlJansenYurong)
